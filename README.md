@@ -1,7 +1,5 @@
-<p>
-  <h3>Hello World, I'm Tomy!</h3>
-  <h6>헬로 월드, Tomy 입니다!</h6>
-</p>
+<h2>Hello World, I'm Tomy!</h2>
+<h6>헬로 월드, Tomy 입니다!</h6>
 
 <p>
   <em>
@@ -16,7 +14,7 @@
 [![GitHub: tomytjandra](https://img.shields.io/github/followers/tomytjandra?label=follow&style=social)](https://github.com/tomytjandra)
 [![Linkedin: tomytjandra](https://img.shields.io/badge/-tomytjandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomytjandra/)](https://www.linkedin.com/in/tomytjandra/)
 
-## <img src="https://i.pinimg.com/originals/7c/d5/49/7cd54932c787b904c1a50a7060995a7d.gif" width="75"> Glimpse of me
+## Glimpse of me <img src="https://i.pinimg.com/originals/7c/d5/49/7cd54932c787b904c1a50a7060995a7d.gif" width="75">
 
 ```python
 tomy = {
