@@ -1,4 +1,7 @@
-## Hello World, I'm Tomy Tjandra!
+<p>
+  <h3>Hello World, I'm Tomy!</h3>
+  <h6>헬로 월드, Tomy 입니다!</h6>
+</p>
 
 <p>
   <em>
@@ -24,7 +27,7 @@ tomy = {
 }
 
 for key, value in tomy.items():
-    print(f"Tomy {key} {', '.join(value)}")
+    print(f"Tomy {key} {', '.join(value[:-1])}, and {value[-1]}")
 ```
 
 ---
