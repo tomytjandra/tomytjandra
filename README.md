@@ -1,4 +1,4 @@
-![Card Name](https://cardivo.vercel.app/api?name=Tomy%20Tjandra&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%ABFormer%20Data%20Science%20Instructor&site=%F0%9F%8E%93%20Computer%20Science%20and%20Mathematics&image=https://avatars.githubusercontent.com/u/48079239?v=4&backgroundColor=%23000000&fontColor=%23ffffff&pattern=iLikeFood&colorPattern=%23eaeaea&opacity=0.1)
+![Card Name](https://cardivo.vercel.app/api?name=Tomy%20Tjandra&description=Data%20Scientist&site=%F0%9F%8E%93%20Computer%20Science%20and%20Mathematics&image=https://avatars.githubusercontent.com/u/48079239?v=4&backgroundColor=%23000000&fontColor=%23ffffff&pattern=iLikeFood&colorPattern=%23eaeaea&opacity=0.1)
 
 <p align="center">
   <a href="https://linkedin.com/in/tomytjandra">
